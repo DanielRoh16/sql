@@ -1,0 +1,1 @@
+EXEC sp_detach_db N'Adventureworks2017', 'true'
