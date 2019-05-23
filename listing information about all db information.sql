@@ -1,4 +1,4 @@
-﻿use daniel
+﻿use Daniel_DW 
 SELECT database_id,
 CONVERT(VARCHAR(25), DB.name) AS dbName,
 CONVERT(VARCHAR(10), DATABASEPROPERTYEX(name, 'status')) AS [Status],
